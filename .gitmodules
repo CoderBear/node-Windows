@@ -4,9 +4,9 @@
 [submodule "node_modules/ref"]
 	path = node_modules/ref
 	url = git@github.com:Benvie/ref.git
-[submodule "node_modules/ffi"]
-	path = node_modules/ffi
-	url = https://github.com/Benvie/ffi
+[submodule "node_modules/node-ffi"]
+	path = node_modules/node-ffi
+	url = https://github.com/Benvie/node-ffi
 [submodule "node_modules/winreg"]
 	path = node_modules/winreg
 	url = git://github.com/Benvie/node-winreg.git
